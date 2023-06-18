@@ -13,7 +13,7 @@ function Header() {
     </div>
     <div>
       <a href="" className={styles.language}>
-        RU
+        <img className={styles.flag} src="./public/image/icon/flag.png" alt="" />
       </a>
     </div>
   </header>

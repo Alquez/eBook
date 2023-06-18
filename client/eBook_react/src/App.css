@@ -1,18 +1,14 @@
+@font-face {
+  font-family: 'Inter';
+  src: url('../public/fonts/Inter-Regular.ttf');
+  font-style: normal;
+}
 *{
   padding: 0;
   margin: 0;
+  font-family: Inter
 }
 
-@font-face {
-  font-family: 'Montserrat';
-  src: url('./public/fonts/Montserrat-Medium.ttf');
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Montserrat';
-  src: url('./public/fonts/Montserrat-MediumItalic.ttf');
-  font-style: italic;
-}
 
 .container{
   width: 100%;

@@ -1,0 +1,45 @@
+.ribbon{
+  width: 100%;
+  max-height: 90vh;
+  overflow-y: scroll;
+}
+.item{
+  max-width: 360px;
+  min-height: 370px;
+  border: 1px solid;
+  border-radius: 15px;
+  margin: auto;
+  background-color: #fff;
+  margin-bottom: 10px;
+}
+.profile{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 16px;
+}
+.image{
+  width: 100%;
+}
+
+.like{
+  transform: scale(1, -1);
+  margin-bottom: 10px;
+}
+.foot_item span{
+  display: flex;
+  align-items: center;
+}
+.foot_item span p{
+  margin-right: 20px;
+}
+.foot_item{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+}
+.text{
+  margin-left: 15px;
+  margin-bottom: 20px;
+}

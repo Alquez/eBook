@@ -1,10 +1,6 @@
 @font-face {
-    font-family: 'Montserrat';
-    src: url('./public/fonts/Montserrat-Medium.ttf');
-    font-style: normal;
-  }
-  @font-face {
-    font-family: 'Montserrat';
-    src: url('./public/fonts/Montserrat-MediumItalic.ttf');
-    font-style: italic;
+    font-family: 'Inter';
+    src: url('../public/fonts/Inter-Regular.ttf');
+    font-style: regular;
+    font-weight: 400;
   }
